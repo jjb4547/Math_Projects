@@ -1,0 +1,94 @@
+1) mu = 0.06, m = 0.24
+Possible equilibrum at (3566.49,1095.72) where 
+[dxdt,dydt] ~= [-5.68e-14;1.71e-13]
+Looks like a stable and attractive node to me. 
+
+J ~=  |-0.199     0.509|
+      | 0.209    -0.679|
+with eigenvalues: 
+ lambda1 = -0.03
+ lambda2 = -0.84
+and corresponding eigenvectors 
+ v1 = |0.951|
+      |0.308|
+ v2 = |-0.619|
+      | 0.785|
+
+2) mu = 0.06 m = 0.5
+Possible equilibrum at (537.12,120.72) where 
+[dxdt,dydt] ~= [-2.13e-14;7.11e-15]
+Looks like a stable and attractive node to me. 
+
+J ~=  |-0.153     0.632|
+      | 0.225        -1|
+with eigenvalues: 
+ lambda1 = -0.01
+ lambda2 = -1.14
+and corresponding eigenvectors 
+ v1 = |0.975|
+      |0.221|
+ v2 = |-0.538|
+      | 0.843|
+
+3) mu = 0.06 m = 0.6
+Possible equilibrum at (0.00,0.00) where 
+[dxdt,dydt] ~= [-9.53e-10;9.53e-10]
+Looks like a stable and attractive node to me. 
+
+J ~=  |-0.156     0.247|
+      | 0.246    -0.697|
+with eigenvalues: 
+ lambda1 = -0.06
+ lambda2 = -0.79
+and corresponding eigenvectors 
+ v1 = |0.933|
+      |0.361|
+ v2 = |-0.362|
+      | 0.932|
+
+4) mu = 0.12234969 m = 0.24
+Possible equilibrum at (0.00,0.00) where 
+[dxdt,dydt] ~= [1.36e-14;-1.36e-14]
+Looks like a stable and attractive node to me. 
+
+J ~=  | -0.2     0.388|
+      |0.228    -0.478|
+with eigenvalues: 
+ lambda1 = -0.01
+ lambda2 = -0.67
+and corresponding eigenvectors 
+ v1 = |0.899|
+      |0.438|
+ v2 = |-0.639|
+      | 0.769|
+
+5) mu = 0.0001 m = 0.175 w = 9000
+Possible equilibrum at (0.00,0.00) where 
+[dxdt,dydt] ~= [2.19e-10;-2.19e-10]
+Looks like a unstable saddle to me. 
+
+J ~=  |-0.083     0.167|
+      | 0.249    -0.175|
+with eigenvalues: 
+ lambda1 = 0.08
+ lambda2 = -0.34
+and corresponding eigenvectors 
+ v1 = |0.715|
+      |0.699|
+ v2 = |-0.547|
+      | 0.837|
+
+Possible equilibrum at (18427.97,6271.77) where 
+[dxdt,dydt] ~= [7.41e-13;-4.55e-13]
+Looks like a stable and attractive node to me. 
+
+J ~=  |-0.19     0.429|
+      |0.202    -0.592|
+with eigenvalues: 
+ lambda1 = -0.03
+ lambda2 = -0.75
+and corresponding eigenvectors 
+ v1 = |0.94|
+      |0.34|
+ v2 = |-0.61|
+      |0.792|
